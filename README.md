@@ -1,6 +1,6 @@
 # 🚀 SmartCreator AI: Redefining YouTube Content Creation with Advanced AI
 
-![SmartCreator AI Header](https://i.ibb.co/BPx7wrC/DALL-E-2025-01-05-22-31-43-A-vibrant-cyberpunk-anime-style-banner-featuring-a-futuristic-egirl-AI-ch.webp)
+![SmartCreator AI Header](https://i.ibb.co/hx5mnJk/DALL-E-2025-01-05-22-31-1.png)
 
 SmartCreator AI is **not just a tool**—it's your **ultimate AI-powered YouTube partner**, capable of managing every aspect of your content creation journey. From generating high-quality videos to engaging with your audience, SmartCreator AI combines the power of AI and automation to unlock endless possibilities for creators.
 
