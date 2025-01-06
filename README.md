@@ -103,8 +103,7 @@ We’re constantly innovating! Here’s a glimpse of what’s next:
 ---
 
 ## 📬 Get Started
-
-1. **Sign Up**: [SmartCreator AI Website](https://example.com).
+1. **Documentation**: https://smartcreatoria.gitbook.io/
 2. **Download**: Clone the repository or access the desktop app.
 3. **Create Your First Video**: Let AI handle the hard work while you enjoy the results.
 
